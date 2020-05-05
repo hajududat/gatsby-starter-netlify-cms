@@ -8,4 +8,6 @@ featuredimage: /img/blog-index.jpg
 tags:
   - test
 ---
+![test image](/img/jumbotron.jpg "test image")
+
 This is a test blog post
